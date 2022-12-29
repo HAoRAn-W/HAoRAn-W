@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HAoRAn-W
+- 👋 Hi, I’m Haoran (Ryan) Wang
 - 🌱 I’m currently learning Java
 
 <!---

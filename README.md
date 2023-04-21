@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Haoran (Ryan) Wang
 - 🌱 I’m currently learning Java
+- 🖼️ I love museums, especially the MET!
 
 <!---
 HAoRAn-W/HAoRAn-W is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

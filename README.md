@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haoran (Ryan) Wang
-- 🌱 I’m currently learning Java
+- 🌱 I use Java and Python to implement my ideas
 - 🖼️ I love museums, especially the MET!
 
 <!---
